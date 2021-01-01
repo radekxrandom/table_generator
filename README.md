@@ -1,5 +1,3 @@
-"# table_generator"
-
 #### I added some CSS styling for the good measure.
 
 ## Functions that are most interesting to you:
