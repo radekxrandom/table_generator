@@ -1,5 +1,7 @@
 #### I added some CSS styling for the good measure.
 
+![sc](https://i.imgur.com/uz2orjZ.png)
+
 ## Functions that are most interesting to you:
 
 - Can be found in parser.js file
