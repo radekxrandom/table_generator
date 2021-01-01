@@ -1,4 +1,4 @@
-#### I added some CSS styling for the good measure.
+#### I added some CSS styling for good measure.
 
 ![sc](https://i.imgur.com/uz2orjZ.png)
 
