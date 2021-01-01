@@ -320,7 +320,7 @@ tableGenerator(stages, ops);
 
 // below is code responsible for copy on click and notifications, not really needed
 
-const showNotification = (val) => {
+const showNotification = (bool) => {
 	const succcess = document.createElement('div');
 	succcess.className = 'notif ok';
 	succcess.textContent = 'Copied ok';
@@ -331,7 +331,7 @@ const showNotification = (val) => {
 		true: succcess,
 		false: err,
 	};
-	const ourNotif = notifEnum[val];
+	const ourNotif = notifEnum[bool];
 	document.body.append(ourNotif);
 	ourNotif.classList.add('fade-out');
 	ourNotif.onanimationend = (e) => {
