@@ -1,6 +1,6 @@
 "# table_generator"
 
-## I added some CSS styling for the good measure.
+#### I added some CSS styling for the good measure.
 
 ## Functions that are most interesting to you:
 
@@ -8,7 +8,7 @@
 - sortData(stages, ops) - sorts opportunities in2 object containing arrays with OppStageID being key to each array. This is needed to generate table. Otherwise we can get data in column form and not in row form.
 - tableGenerator(stages, ops)
 
-## Less interesting
+### Less interesting
 
 - copyCell(e) - when cell containing text is clicked that text is copied
 - fallbackCopyTextToClipboard(text) - fallback to still be able to copy text on older browsers
